@@ -243,6 +243,7 @@ h3 {
 #contact {
   /* background: rgb(91, 28, 238); */
   padding: 5rem 0;
+  width: 50%;
 }
 #contact h2 {
   text-align: center;
@@ -291,15 +292,15 @@ h3 {
   border-radius: 5px;
   font-size: 1.5rem;
   background: transparent;
-  border: 2px solid #fe9001;
-  color: #fe9001;
+  border: 2px solid #ffb703;
+  color: #ffb703;
   margin-bottom: 2rem;
   cursor: pointer;
   outline: none;
   transition: background-color 0.3s;
 }
 .contant-btn:hover {
-  background-color: #fe9001;
+  background-color: #ffb703;
 
   color: #fff;
 }
@@ -312,7 +313,7 @@ h3 {
 .mail-ion {
   position: absolute;
   font-size: 4rem;
-  background: #fe9001;
+  background: #ffb703;
   color: white;
   display: inline-block;
   padding: 1.5rem 2rem;
@@ -325,7 +326,7 @@ h3 {
   color: #fff;
 }
 footer {
-  border-top: 2px solid #fe9001;
+  border-top: 2px solid #ffb703;
   padding: 2.5rem;
 }
 footer p {
@@ -338,7 +339,7 @@ footer p a {
   color: white;
 }
 footer p a:hover {
-  color: #fe9001;
+  color: #ffb703;
 }
 /* meadi queery */
 .burger {
